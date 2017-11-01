@@ -1,0 +1,49 @@
+1498748879878	geckodriver	INFO	Listening on 127.0.0.1:52681
+1498748880946	mozprofile::profile	INFO	Using profile path /var/folders/28/876j0bcj1z36klg1kkl4qgbw0000gn/T/rust_mozprofile.XQqedQEvoCbH
+1498748880948	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1498748880951	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52695
+1498748881971	Marionette	INFO	Listening on port 52695
+1498748882337	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-29 11:08:04.408 plugin-container[15606:9692495] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x923b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-29 11:08:04.409 plugin-container[15606:9692495] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1498748913678	geckodriver	INFO	Listening on 127.0.0.1:52861
+1498748914708	mozprofile::profile	INFO	Using profile path /var/folders/28/876j0bcj1z36klg1kkl4qgbw0000gn/T/rust_mozprofile.sv8dcyd3h4sP
+1498748914710	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1498748914712	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52874
+1498748915516	Marionette	INFO	Listening on port 52874
+1498748915839	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-29 11:08:37.210 plugin-container[15641:9693452] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-29 11:08:37.211 plugin-container[15641:9693452] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+ObjectActor.prototype.grip previewer function threw an exception: Error: Permission denied to access object
+Stack: PseudoArray@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/object.js:1797:16
+ObjectActor.prototype.grip@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/object.js:131:15
+WCA_objectGrip@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:483:12
+createValueGrip@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/object.js:2187:14
+WCA_createValueGrip@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:429:12
+@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/utils/webconsole-utils.js:845:14
+@debugger eval code:1:1
+WCA_evalWithDebugger@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:1355:16
+WCA_onEvaluateJS@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:887:20
+WCA_onEvaluateJSAsync@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:857:20
+onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1743:15
+ChildDebuggerTransport.prototype.receiveMessage@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/transport/transport.js:761:7
+Line: 1, column: 1
+console.error: 
+  ObjectActor.prototype.grip previewer function threw an exception: Error: Permission denied to access object
+Stack: PseudoArray@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/object.js:1797:16
+ObjectActor.prototype.grip@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/object.js:131:15
+WCA_objectGrip@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:483:12
+createValueGrip@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/object.js:2187:14
+WCA_createValueGrip@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:429:12
+@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/utils/webconsole-utils.js:845:14
+@debugger eval code:1:1
+WCA_evalWithDebugger@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:1355:16
+WCA_onEvaluateJS@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:887:20
+WCA_onEvaluateJSAsync@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:857:20
+onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1743:15
+ChildDebuggerTransport.prototype.receiveMessage@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/transport/transport.js:761:7
+Line: 1, column: 1

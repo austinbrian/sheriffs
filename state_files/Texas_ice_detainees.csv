@@ -1,0 +1,578 @@
+State,Jurisdiction,All,Yes,No,County,Facility
+Texas,All,"330,632","177,718","152,914",All,All
+Texas,Harris County - Harris County Jail,"42,308","35,236","7,072",Harris County,Harris County Jail
+Texas,Walker County - Huntsville State P.,"24,876","16,126","8,750",Walker County,Huntsville State P.
+Texas,Travis County - Travis Cty Jail,"20,070","9,056","11,014",Travis County,Travis Cty Jail
+Texas,Reeves County - Reeves County Det. Center,"18,555","7,182","11,373",Reeves County,Reeves County Det. Center
+Texas,Hidalgo County - Hidalgo County Jail,"15,029","5,269","9,760",Hidalgo County,Hidalgo County Jail
+Texas,Dallas County - Dallas County Jail,"14,350","10,218","4,132",Dallas County,Dallas County Jail
+Texas,Bexar County - Bexar County Jail,"8,692","3,783","4,909",Bexar County,Bexar County Jail
+Texas,Howard County - Bscc Flightline Unit,"8,669","4,908","3,761",Howard County,Bscc Flightline Unit
+Texas,Garza County - Bscc Giles Darby Facility,"8,277","3,714","4,563",Garza County,Bscc Giles Darby Facility
+Texas,Webb County - Webb County Jail,"7,955",268,"7,687",Webb County,Webb County Jail
+Texas,Concho County - Eden Det Center,"6,658",867,"5,791",Concho County,Eden Det Center
+Texas,Concho County - Ci Eden,"5,957","3,777","2,180",Concho County,Ci Eden
+Texas,Bexar County - San Antonio (City Of) Magistrate,"5,146","3,627","1,519",Bexar County,San Antonio (City Of) Magistrate
+Texas,Howard County - Bscc Cedar Hill Unit,"4,138","1,747","2,391",Howard County,Bscc Cedar Hill Unit
+Texas,Williamson County - Williamson County Jail,"3,946","1,032","2,914",Williamson County,Williamson County Jail
+Texas,Harris County - Tdc - Pam Lychner,"3,842","3,208",634,Harris County,Tdc
+Texas,Reeves County - Reeves County Det. Center Iii,"3,662","2,208","1,454",Reeves County,Reeves County Det. Center Iii
+Texas,Montgomery County - Montgomery County Jail,"3,521","2,747",774,Montgomery County,Montgomery County Jail
+Texas,Harris County - Houston Police Dept.,"2,901","2,175",726,Harris County,Houston Police Dept.
+Texas,El Paso County - El Paso County Jail (Tx),"2,806","2,147",659,El Paso County,El Paso County Jail (Tx)
+Texas,Willacy County - Ci Willacy,"2,782",226,"2,556",Willacy County,Ci Willacy
+Texas,Tarrant County - Tarrant County Jail,"2,721","1,814",907,Tarrant County,Tarrant County Jail
+Texas,McLennan County - Mclennan County Jail,"2,620",901,"1,719",McLennan County,Mclennan County Jail
+Texas,Bee County - Garza West Transfer Facility,"2,558",983,"1,575",Bee County,Garza West Transfer Facility
+Texas,Walker County - Holliday Transfer Unit,"2,532","1,154","1,378",Walker County,Holliday Transfer Unit
+Texas,Dallas County - Irving Police Dept.,"2,527","2,050",477,Dallas County,Irving Police Dept.
+Texas,"Cameron County - Candadian County, El Reno","2,422","1,039","1,383",Cameron County,"Candadian County, El Reno"
+Texas,Fort Bend County - Ft. Bend County Jail,"2,086","1,089",997,Fort Bend County,Ft. Bend County Jail
+Texas,Harris County - Houston Police Dept. (Southeast),"2,080","1,841",239,Harris County,Houston Police Dept. (Southeast)
+Texas,"Hidalgo County - US Marshalls, Southern District T","2,075",193,"1,882",Hidalgo County,"US Marshalls, Southern District T"
+Texas,Howard County - Bscc Airpark Unit,"2,048",869,"1,179",Howard County,Bscc Airpark Unit
+Texas,Val Verde County - Val Verde Detention Center,"2,044",370,"1,674",Val Verde County,Val Verde Detention Center
+Texas,Collin County - Collin County Jail,"2,027","1,219",808,Collin County,Collin County Jail
+Texas,Starr County - Starr County Jail,"1,943",846,"1,097",Starr County,Starr County Jail
+Texas,Denton County - Denton County Jail,"1,927","1,343",584,Denton County,Denton County Jail
+Texas,"Harris County - Us Marshal, Southern District, Tx","1,877",134,"1,743",Harris County,"Us Marshal, Southern District, Tx"
+Texas,Bell County - Bell County Jail,"1,756",363,"1,393",Bell County,Bell County Jail
+Texas,Cameron County - Brownsville Police Dept.,"1,725","1,035",690,Cameron County,Brownsville Police Dept.
+Texas,Howard County - Big Spring Fed.Corr.Inst.,"1,687",214,"1,473",Howard County,Big Spring Fed.Corr.Inst.
+Texas,Howard County - Bscc Interstate Unit,"1,503",609,894,Howard County,Bscc Interstate Unit
+Texas,"Bexar County - Us Marshals,west.Dist.,tx","1,480","1,015",465,Bexar County,"Us Marshals,west.Dist.,tx"
+Texas,Tarrant County - Arlington Police Dept.,"1,478","1,167",311,Tarrant County,Arlington Police Dept.
+Texas,Brazos County - Brazos County Jail,"1,439","1,148",291,Brazos County,Brazos County Jail
+Texas,Harris County - Fdc Houston,"1,369",830,539,Harris County,Fdc Houston
+Texas,"Webb County - Us Marshals, S. Dist.,tx","1,360",260,"1,100",Webb County,"Us Marshals, S. Dist.,tx"
+Texas,Comal County - Comal Cty Jail,"1,352",710,642,Comal County,Comal Cty Jail
+Texas,Midland County - Midland Detention Center,"1,338",423,915,Midland County,Midland Detention Center
+Texas,Taylor County - Texas Doc - Middleton Unit,"1,260",474,786,Taylor County,Texas Doc
+Texas,Bastrop County - Bastrop County Jail,"1,194",288,906,Bastrop County,Bastrop County Jail
+Texas,"Jefferson County - Beaumont Fcc, Medium","1,180",704,476,Jefferson County,"Beaumont Fcc, Medium"
+Texas,Anderson County - Gurney Transfer Facility,"1,173",463,710,Anderson County,Gurney Transfer Facility
+Texas,Hidalgo County - Mission Police Dept.,"1,101",633,468,Hidalgo County,Mission Police Dept.
+Texas,Harris County - Pasadena Police Dept.,"1,069",896,173,Harris County,Pasadena Police Dept.
+Texas,Denton County - Carrollton Police Dept.,"1,040",793,247,Denton County,Carrollton Police Dept.
+Texas,Cameron County - Us Marshals Sdtx,981,134,847,Cameron County,Us Marshals Sdtx
+Texas,Brazoria County - Brazoria County Det. Ctr,932,726,206,Brazoria County,Brazoria County Det. Ctr
+Texas,Lubbock County - Lubbock County Jail,887,310,577,Lubbock County,Lubbock County Jail
+Texas,Dallas County - Grand Prairie City Jail,886,674,212,Dallas County,Grand Prairie City Jail
+Texas,Guadalupe County - Guadalupe Cty Jail,864,467,397,Guadalupe County,Guadalupe Cty Jail
+Texas,Tarrant County - Carswell Fed.Med.Ctr,863,536,327,Tarrant County,Carswell Fed.Med.Ctr
+Texas,Tom Green County - Tom Green City Jail,846,101,745,Tom Green County,Tom Green City Jail
+Texas,Hidalgo County - Edinburg Police Department,841,489,352,Hidalgo County,Edinburg Police Department
+Texas,Hays County - Hays Cty Jail,836,249,587,Hays County,Hays Cty Jail
+Texas,Harris County - Houston Field Office Holding Room,833,641,192,Harris County,Houston Field Office Holding Room
+Texas,Garza County - Dalby Correctional Institute,828,639,189,Garza County,Dalby Correctional Institute
+Texas,Ector County - Ector County Law Enforcement,822,316,506,Ector County,Ector County Law Enforcement
+Texas,Jefferson County - Jefferson County Jail,807,575,232,Jefferson County,Jefferson County Jail
+Texas,Denton County - Lewisville Police Dept.,754,574,180,Denton County,Lewisville Police Dept.
+Texas,Hidalgo County - Alamo Police Dept.,753,482,271,Hidalgo County,Alamo Police Dept.
+Texas,Gonzales County - Gonzales County Jail,706,429,277,Gonzales County,Gonzales County Jail
+Texas,Titus County - Titus County Jail,702,257,445,Titus County,Titus County Jail
+Texas,Tarrant County - Mansfield L.E. Center,693,435,258,Tarrant County,Mansfield L.E. Center
+Texas,Galveston County - Galveston County Sheriff,692,489,203,Galveston County,Galveston County Sheriff
+Texas,Jefferson County - Beaumont Federal Prison,673,348,325,Jefferson County,Beaumont Federal Prison
+Texas,Hidalgo County - Pharr Police Dept.,661,404,257,Hidalgo County,Pharr Police Dept.
+Texas,Tarrant County - Ft Worth Police Dept.,652,462,190,Tarrant County,Ft Worth Police Dept.
+Texas,Live Oak County - Three Rivers Fci,595,116,479,Live Oak County,Three Rivers Fci
+Texas,"Jefferson County - Beaumont Fcc, Low",588,185,403,Jefferson County,"Beaumont Fcc, Low"
+Texas,Dallas County - Garland Police Dept.,564,392,172,Dallas County,Garland Police Dept.
+Texas,Collin County - Plano Police Dept.,558,370,188,Collin County,Plano Police Dept.
+Texas,Kerr County - Kerr County Jail,558,310,248,Kerr County,Kerr County Jail
+Texas,Dallas County - Farmers Branch Pol. Dept.,552,454,98,Dallas County,Farmers Branch Pol. Dept.
+Texas,Tarrant County - Fort Worth Fed.Med.Center,537,90,447,Tarrant County,Fort Worth Fed.Med.Center
+Texas,Nacogdoches County - Nacogdoches County Jail,536,407,129,Nacogdoches County,Nacogdoches County Jail
+Texas,Dallas County - Richardson Police Dept.,532,429,103,Dallas County,Richardson Police Dept.
+Texas,Harris County - Houston Contract Detention Facilit,524,348,176,Harris County,Houston Contract Detention Facilit
+Texas,Polk County - Polk County Jail,524,240,284,Polk County,Polk County Jail
+Texas,Maverick County - Maverick County Jail,515,31,484,Maverick County,Maverick County Jail
+Texas,Cameron County - Harlingen Police Department,487,249,238,Cameron County,Harlingen Police Department
+Texas,Smith County - Smith County Jail,474,204,270,Smith County,Smith County Jail
+Texas,Walker County - Texas Dcj - Goree Unit,463,154,309,Walker County,Texas Dcj
+Texas,Potter County - Potter County Jail,461,133,328,Potter County,Potter County Jail
+Texas,Burnet County - Burnet County Jail,451,120,331,Burnet County,Burnet County Jail
+Texas,Hidalgo County - San Juan Police Department,449,224,225,Hidalgo County,San Juan Police Department
+Texas,Gregg County - Gregg County Sheriff's,448,222,226,Gregg County,Gregg County Sheriff's
+Texas,"Dallas County - Us Marshal, Dallas, Ndtx",433,55,378,Dallas County,"Us Marshal, Dallas, Ndtx"
+Texas,Hidalgo County - Donna Police Dept.,432,268,164,Hidalgo County,Donna Police Dept.
+Texas,Taylor County - Taylor County Adult Det.,425,27,398,Taylor County,Taylor County Adult Det.
+Texas,Hidalgo County - Weslaco Police Dept.,423,270,153,Hidalgo County,Weslaco Police Dept.
+Texas,Deaf Smith County - Deaf Smith County Sheriff,417,223,194,Deaf Smith County,Deaf Smith County Sheriff
+Texas,Zapata County - Zapata County Jail,395,14,381,Zapata County,Zapata County Jail
+Texas,Ector County - Ector County Correction Center,392,42,350,Ector County,Ector County Correction Center
+Texas,Dallas County - Seagoville Fed.Corr.Inst.,389,56,333,Dallas County,Seagoville Fed.Corr.Inst.
+Texas,Gillespie County - Gillispie Cty Jail,362,204,158,Gillespie County,Gillispie Cty Jail
+Texas,Bowie County - Texarkana Fed.Corr.Inst.,359,64,295,Bowie County,Texarkana Fed.Corr.Inst.
+Texas,Waller County - Waller County Sheriff,349,272,77,Waller County,Waller County Sheriff
+Texas,Tarrant County - North Richland Hills Jail,348,279,69,Tarrant County,North Richland Hills Jail
+Texas,Washington County - Washington County Sheriff,346,281,65,Washington County,Washington County Sheriff
+Texas,Caldwell County - Caldwell County Jail,341,94,247,Caldwell County,Caldwell County Jail
+Texas,McLennan County - Mcclennan County Detention Cente,340,127,213,McLennan County,Mcclennan County Detention Cente
+Texas,Cameron County - Port Isabel Service Processing Ce,336,137,199,Cameron County,Port Isabel Service Processing Ce
+Texas,Colorado County - Colorado County Jail,321,273,48,Colorado County,Colorado County Jail
+Texas,Harrison County - Harrison County Jail,317,193,124,Harrison County,Harrison County Jail
+Texas,Ector County - Odessa Detention Center,312,226,86,Ector County,Odessa Detention Center
+Texas,Liberty County - Liberty County Jail,311,234,77,Liberty County,Liberty County Jail
+Texas,Liberty County - Lucille Plane State Jail,302,178,124,Liberty County,Lucille Plane State Jail
+Texas,Kendall County - Kendall County Jail,300,184,116,Kendall County,Kendall County Jail
+Texas,Bexar County - Tdc-Dominguez Unit,293,102,191,Bexar County,Tdc-Dominguez Unit
+Texas,El Paso County - La Tuna Fci,288,33,255,El Paso County,La Tuna Fci
+Texas,Kaufman County - Kaufman County Sheriff's Dept,287,170,117,Kaufman County,Kaufman County Sheriff's Dept
+Texas,Potter County - Randall County Jail,287,120,167,Potter County,Randall County Jail
+Texas,Dallas County - Mesquite Police Dept.,284,210,74,Dallas County,Mesquite Police Dept.
+Texas,Grayson County - Grayson County Jail,278,156,122,Grayson County,Grayson County Jail
+Texas,Johnson County - Johnson County Jail,275,167,108,Johnson County,Johnson County Jail
+Texas,Parker County - Parker County Sheriff's Dept.,274,65,209,Parker County,Parker County Sheriff's Dept.
+Texas,Rockwall County - Rockwall County Jail,273,157,116,Rockwall County,Rockwall County Jail
+Texas,Cameron County - Harlingen Hold Room,270,216,54,Cameron County,Harlingen Hold Room
+Texas,Atascosa County - Atascosa County Jail,267,149,118,Atascosa County,Atascosa County Jail
+Texas,Cameron County - San Benito Police Dept.,266,170,96,Cameron County,San Benito Police Dept.
+Texas,Ochiltree County - Ochiltree County Sheriff,263,87,176,Ochiltree County,Ochiltree County Sheriff
+Texas,Coryell County - Tdc/Womens,262,179,83,Coryell County,Tdc/Womens
+Texas,Brazoria County - Alvin Police Dept.,257,224,33,Brazoria County,Alvin Police Dept.
+Texas,Nueces County - Nueces County Jail,249,146,103,Nueces County,Nueces County Jail
+Texas,Walker County - Walker County Jail,247,185,62,Walker County,Walker County Jail
+Texas,Freestone County - Freestone County Jail,242,93,149,Freestone County,Freestone County Jail
+Texas,Limestone County - Limestone Detention Center,236,121,115,Limestone County,Limestone Detention Center
+Texas,Medina County - Medina County Jail,234,117,117,Medina County,Medina County Jail
+Texas,Hidalgo County - Palmview Police Department,228,122,106,Hidalgo County,Palmview Police Department
+Texas,Angelina County - Angelina County Jail,226,136,90,Angelina County,Angelina County Jail
+Texas,Walker County - James H. Byrd Facility,224,41,183,Walker County,James H. Byrd Facility
+Texas,Ellis County - Ellis County Sheriff's Dept.,223,114,109,Ellis County,Ellis County Sheriff's Dept.
+Texas,Tarrant County - Hurst City Jail,218,173,45,Tarrant County,Hurst City Jail
+Texas,Tarrant County - Euless City Jail,215,155,60,Tarrant County,Euless City Jail
+Texas,El Paso County - El Paso Service Processing Center,212,152,60,El Paso County,El Paso Service Processing Center
+Texas,Cooke County - Cooke County Jail,203,139,64,Cooke County,Cooke County Jail
+Texas,Moore County - Moore County Sheriff,199,51,148,Moore County,Moore County Sheriff
+Texas,Chambers County - Chambers County Sheriff,196,149,47,Chambers County,Chambers County Sheriff
+Texas,Cameron County - Port Isabel Police Department,191,124,67,Cameron County,Port Isabel Police Department
+Texas,Parmer County - Parmer County Sheriff,191,102,89,Parmer County,Parmer County Sheriff
+Texas,Travis County - Austin DRO Hold Room,191,137,54,Travis County,Austin DRO Hold Room
+Texas,Hill County - Hill County Sheriff's Dept.,189,76,113,Hill County,Hill County Sheriff's Dept.
+Texas,Dallam County - Dallam County Sheriff,183,68,115,Dallam County,Dallam County Sheriff
+Texas,Wharton County - Wharton County Jail,181,107,74,Wharton County,Wharton County Jail
+Texas,Navarro County - Navarro Co Justice Ctr,178,124,54,Navarro County,Navarro Co Justice Ctr
+Texas,Dallas County - Dallas Field Office Holding Facili,174,105,69,Dallas County,Dallas Field Office Holding Facili
+Texas,Hood County - Hood County Sheriff's Dept.,171,123,48,Hood County,Hood County Sheriff's Dept.
+Texas,"Midland County - Us Marshals, Midland Tx",170,108,62,Midland County,"Us Marshals, Midland Tx"
+Texas,Brewster County - Brewster County Jail,166,106,60,Brewster County,Brewster County Jail
+Texas,"Val Verde County - Us Marshals, W. Dist.,tx",160,40,120,Val Verde County,"Us Marshals, W. Dist.,tx"
+Texas,Denton County - Denton City Jail,159,100,59,Denton County,Denton City Jail
+Texas,Andrews County - Andrews Sherrif's Office Co Jail,158,55,103,Andrews County,Andrews Sherrif's Office Co Jail
+Texas,Hopkins County - Hopkins County Jail,156,64,92,Hopkins County,Hopkins County Jail
+Texas,Brazoria County - Pearland Police Dept.,154,107,47,Brazoria County,Pearland Police Dept.
+Texas,Henderson County - Henderson County Jail,153,111,42,Henderson County,Henderson County Jail
+Texas,Hidalgo County - Mercedes Police Department,153,83,70,Hidalgo County,Mercedes Police Department
+Texas,Lee County - Lee County Jail,150,115,35,Lee County,Lee County Jail
+Texas,Carson County - Carson County Sheriff,143,56,87,Carson County,Carson County Sheriff
+Texas,Frio County - Frio County Jail,142,51,91,Frio County,Frio County Jail
+Texas,Hunt County - Hunt County Sheriff & Jail,142,98,44,Hunt County,Hunt County Sheriff & Jail
+Texas,"Tarrant County - Us Marshal, Ft Worth, Ndtx",138,14,124,Tarrant County,"Us Marshal, Ft Worth, Ndtx"
+Texas,Bastrop County - Bastrop Fed.Corr.Inst.,138,9,129,Bastrop County,Bastrop Fed.Corr.Inst.
+Texas,Reeves County - Law Enf Ctr Pecos,138,106,32,Reeves County,Law Enf Ctr Pecos
+Texas,Montgomery County - Joe Corley Det. Facility,136,51,85,Montgomery County,Joe Corley Det. Facility
+Texas,Harris County - Deer Park Police Dept.,136,120,16,Harris County,Deer Park Police Dept.
+Texas,Travis County - Travis County State Jail,135,42,93,Travis County,Travis County State Jail
+Texas,Hale County - Hale County Sheriff,134,38,96,Hale County,Hale County Sheriff
+Texas,Wichita County - Wichita County Jail,134,81,53,Wichita County,Wichita County Jail
+Texas,Wise County - Wise County Jail,133,76,57,Wise County,Wise County Jail
+Texas,Rusk County - Rusk County Jail,132,96,36,Rusk County,Rusk County Jail
+Texas,Austin County - Austin County Sheriff,126,57,69,Austin County,Austin County Sheriff
+Texas,Tarrant County - Grapevine Police Dept.,126,81,45,Tarrant County,Grapevine Police Dept.
+Texas,Falls County - Falls County Jail,125,65,60,Falls County,Falls County Jail
+Texas,Harris County - Katy Police Dept.,125,116,9,Harris County,Katy Police Dept.
+Texas,Lampasas County - Lampasas County Jail,124,18,106,Lampasas County,Lampasas County Jail
+Texas,Wilson County - Wilson County Jail,123,69,54,Wilson County,Wilson County Jail
+Texas,Reeves County - Reeves County Jail,121,65,56,Reeves County,Reeves County Jail
+Texas,Collin County - Frisco Police Dept.,121,83,38,Collin County,Frisco Police Dept.
+Texas,Blanco County - Blanco County Jail,121,76,45,Blanco County,Blanco County Jail
+Texas,Bosque County - Bosque County Sheriff's Dept.,117,52,65,Bosque County,Bosque County Sheriff's Dept.
+Texas,Cameron County - Los Fresnos Police Department,117,81,36,Cameron County,Los Fresnos Police Department
+Texas,Coryell County - Coryell County Jail,116,32,84,Coryell County,Coryell County Jail
+Texas,Tarrant County - Bedford City Jail,113,79,34,Tarrant County,Bedford City Jail
+Texas,Reeves County - Pecos Criminal Justice Center,113,54,59,Reeves County,Pecos Criminal Justice Center
+Texas,Harris County - South Houston Police Dept,113,103,10,Harris County,South Houston Police Dept
+Texas,"Grayson County - Us Marshal, Sherman, Edtx",110,18,92,Grayson County,"Us Marshal, Sherman, Edtx"
+Texas,Van Zandt County - Van Zandt County Sheriff's Dept,108,71,37,Van Zandt County,Van Zandt County Sheriff's Dept
+Texas,Haskell County - Rolling Plains Detention Center,108,71,37,Haskell County,Rolling Plains Detention Center
+Texas,Orange County - Orange County Sheriff,108,68,40,Orange County,Orange County Sheriff
+Texas,Gray County - Gray County Sheriff,108,37,71,Gray County,Gray County Sheriff
+Texas,Tarrant County - Fort Worth Police Dept,108,73,35,Tarrant County,Fort Worth Police Dept
+Texas,Harris County - City Of Webster Police Dept.,107,96,11,Harris County,City Of Webster Police Dept.
+Texas,Gaines County - Gaines County Sheriff,106,31,75,Gaines County,Gaines County Sheriff
+Texas,Willacy County - Willacy County Sheriff,105,48,57,Willacy County,Willacy County Sheriff
+Texas,Panola County - Panola County Jail,104,66,38,Panola County,Panola County Jail
+Texas,Hudspeth County - Hudspeth County Jail,102,59,43,Hudspeth County,Hudspeth County Jail
+Texas,"Potter County - Us Marshals, N District Tx",101,34,67,Potter County,"Us Marshals, N District Tx"
+Texas,Jefferson County - Beaumont Fed.Corr.Ctr,101,50,51,Jefferson County,Beaumont Fed.Corr.Ctr
+Texas,Fannin County - Fannin County Jail,100,24,76,Fannin County,Fannin County Jail
+Texas,Bailey County - Bailey County Sheriff,98,36,62,Bailey County,Bailey County Sheriff
+Texas,Matagorda County - Matagorda County Sheriff,97,63,34,Matagorda County,Matagorda County Sheriff
+Texas,Harris County - Baytown Police Dept.,93,77,16,Harris County,Baytown Police Dept.
+Texas,Hudspeth County - West Texas Detention Facility,89,57,32,Hudspeth County,West Texas Detention Facility
+Texas,Hockley County - Hockley County Jail,89,22,67,Hockley County,Hockley County Jail
+Texas,Galveston County - League City Police Dept.,88,76,12,Galveston County,League City Police Dept.
+Texas,Willacy County - Willacy County Detention Center,87,23,64,Willacy County,Willacy County Detention Center
+Texas,Winkler County - Winkler County Jail,87,38,49,Winkler County,Winkler County Jail
+Texas,Lamar County - Lamar County Jail,86,56,30,Lamar County,Lamar County Jail
+Texas,Dallas County - Addison Police Dept.,86,61,25,Dallas County,Addison Police Dept.
+Texas,Harris County - Hedwig Police Dept.,84,72,12,Harris County,Hedwig Police Dept.
+Texas,Bandera County - Bandera County Jail,82,45,37,Bandera County,Bandera County Jail
+Texas,Bowie County - Bowie County Jail,81,28,53,Bowie County,Bowie County Jail
+Texas,Hidalgo County - La Joya Police Dept.,79,35,44,Hidalgo County,La Joya Police Dept.
+Texas,Uvalde County - Uvalde County Jail,79,15,64,Uvalde County,Uvalde County Jail
+Texas,Castro County - Castro County Sheriff,78,31,47,Castro County,Castro County Sheriff
+Texas,Tarrant County - Haltom City Jail,78,55,23,Tarrant County,Haltom City Jail
+Texas,Hidalgo County - Sullivan City Police Dept.,76,38,38,Hidalgo County,Sullivan City Police Dept.
+Texas,Karnes County - Karnes Correctional Center,74,32,42,Karnes County,Karnes Correctional Center
+Texas,Cameron County - South Padre Island Police Dept.,73,51,22,Cameron County,South Padre Island Police Dept.
+Texas,Cherokee County - Cherokee County Jail,72,45,27,Cherokee County,Cherokee County Jail
+Texas,Fayette County - Fayette County Jail,72,36,36,Fayette County,Fayette County Jail
+Texas,San Saba County - San Saba County Jail,70,18,52,San Saba County,San Saba County Jail
+Texas,Bexar County - San Antonio DRO Hold Room,69,50,19,Bexar County,San Antonio DRO Hold Room
+Texas,"Collin County - Us Marshal, Plano, Edtx",69,13,56,Collin County,"Us Marshal, Plano, Edtx"
+Texas,Bexar County - Wackenhut Facility,68,28,40,Bexar County,Wackenhut Facility
+Texas,Upshur County - Upshur County Jail,67,26,41,Upshur County,Upshur County Jail
+Texas,Collin County - Allen Police Dept.,67,49,18,Collin County,Allen Police Dept.
+Texas,Victoria County - Victoria County Jail,66,40,26,Victoria County,Victoria County Jail
+Texas,Leon County - Leon County Sheriff,64,31,33,Leon County,Leon County Sheriff
+Texas,"Smith County - Us Marshal, Tyler, Edtx",62,13,49,Smith County,"Us Marshal, Tyler, Edtx"
+Texas,Harris County - Humble Police Dept.,60,45,15,Harris County,Humble Police Dept.
+Texas,Terry County - Terry County Jail,59,18,41,Terry County,Terry County Jail
+Texas,Camp County - Camp County Jail,58,42,16,Camp County,Camp County Jail
+Texas,Milam County - Milam County Sheriff,58,34,24,Milam County,Milam County Sheriff
+Texas,Presidio County - Presidio County Jail,56,34,22,Presidio County,Presidio County Jail
+Texas,Frio County - South Texas Contract Detention Facil,55,31,24,Frio County,South Texas Contract Detention Facil
+Texas,Webb County - Laredo Processing Center,54,8,46,Webb County,Laredo Processing Center
+Texas,Fort Bend County - Sugar Land Police Dept.,54,49,5,Fort Bend County,Sugar Land Police Dept.
+Texas,Wood County - Wood County Jail,54,30,24,Wood County,Wood County Jail
+Texas,Yoakum County - Yoakum County Jail,54,9,45,Yoakum County,Yoakum County Jail
+Texas,Hutchinson County - Hutchinson County Sheriff,54,25,29,Hutchinson County,Hutchinson County Sheriff
+Texas,Aransas County - Aransas County Sheriff,53,38,15,Aransas County,Aransas County Sheriff
+Texas,Hardin County - Hardin County Jail,53,36,17,Hardin County,Hardin County Jail
+Texas,Howard County - Howard County Sheriff,53,6,47,Howard County,Howard County Sheriff
+Texas,Brooks County - Brooks County Detention Center,51,17,34,Brooks County,Brooks County Detention Center
+Texas,Concho County - Eden Hold Room,51,41,10,Concho County,Eden Hold Room
+Texas,Bell County - Killeen Police Dept.,51,10,41,Bell County,Killeen Police Dept.
+Texas,Grimes County - Grimes County Sheriff's Dept.,48,29,19,Grimes County,Grimes County Sheriff's Dept.
+Texas,Tarrant County - Keller Police Dept.,48,34,14,Tarrant County,Keller Police Dept.
+Texas,Hidalgo County - Hidalgo Police Department,48,25,23,Hidalgo County,Hidalgo Police Department
+Texas,Shelby County - Center Police Dept.,48,38,10,Shelby County,Center Police Dept.
+Texas,Madison County - Madison County Sheriff,47,27,20,Madison County,Madison County Sheriff
+Texas,Harris County - La Porte Police Dept.,47,37,10,Harris County,La Porte Police Dept.
+Texas,El Paso County - Rogelio Sanchez Facility,46,11,35,El Paso County,Rogelio Sanchez Facility
+Texas,Lamb County - Lamb County Sheriff,46,15,31,Lamb County,Lamb County Sheriff
+Texas,Montgomery County - Montgomery County Sheriff,46,33,13,Montgomery County,Montgomery County Sheriff
+Texas,Dickens County - Dickens County Det. Center,46,25,21,Dickens County,Dickens County Det. Center
+Texas,Llano County - Llano County Jail,45,17,28,Llano County,Llano County Jail
+Texas,Nolan County - Nolan County Sheriff,44,1,43,Nolan County,Nolan County Sheriff
+Texas,Scurry County - Scurry County Sheriff,43,11,32,Scurry County,Scurry County Sheriff
+Texas,Bexar County - Abraxas-H Garcia Center,42,2,40,Bexar County,Abraxas-H Garcia Center
+Texas,Dallas County - Rowlett Police Dept.,42,25,17,Dallas County,Rowlett Police Dept.
+Texas,Burleson County - Burleson County Jail,42,29,13,Burleson County,Burleson County Jail
+Texas,Nueces County - Coastal Bend Detention Center,41,32,9,Nueces County,Coastal Bend Detention Center
+Texas,Comanche County - Comanche Co Law Enfor Ctr,41,27,14,Comanche County,Comanche Co Law Enfor Ctr
+Texas,Red River County - Red River County Jail,41,30,11,Red River County,Red River County Jail
+Texas,Dallas County - Balch Springs Police Dept.,41,19,22,Dallas County,Balch Springs Police Dept.
+Texas,Harris County - Tomball Police Dept.,40,38,2,Harris County,Tomball Police Dept.
+Texas,Cameron County - La Feria Police Department,40,25,15,Cameron County,La Feria Police Department
+Texas,Zavala County - Zavala County Jail,39,5,34,Zavala County,Zavala County Jail
+Texas,"Brooks County - Brooks County Jail, (Sheriff)",38,15,23,Brooks County,"Brooks County Jail, (Sheriff)"
+Texas,Anderson County - Anderson County Jail,38,22,16,Anderson County,Anderson County Jail
+Texas,Galveston County - Dickinson Police Dept.,37,30,7,Galveston County,Dickinson Police Dept.
+Texas,La Salle County - LaSalle County Jail,36,2,34,La Salle County,LaSalle County Jail
+Texas,Palo Pinto County - Palo Pinto County Jail,36,2,34,Palo Pinto County,Palo Pinto County Jail
+Texas,Young County - Young County Sheriff,36,,36,Young County,Young County Sheriff
+Texas,Hall County - Hall County Sheriff,36,19,17,Hall County,Hall County Sheriff
+Texas,Harris County - Harris County Juvenile,36,20,16,Harris County,Harris County Juvenile
+Texas,Erath County - Erath County Jail,36,20,16,Erath County,Erath County Jail
+Texas,Shelby County - Shelby County Sheriff,35,18,17,Shelby County,Shelby County Sheriff
+Texas,Tyler County - Tyler County Sheriff,34,19,15,Tyler County,Tyler County Sheriff
+Texas,Hemphill County - Hemphill County Sheriff,33,14,19,Hemphill County,Hemphill County Sheriff
+Texas,Jackson County - Jackson County Jail,32,16,16,Jackson County,Jackson County Jail
+Texas,Calhoun County - Calhoun County Jail,32,18,14,Calhoun County,Calhoun County Jail
+Texas,Dimmit County - Dimmit County Jail Ben Murray Lec,31,9,22,Dimmit County,Dimmit County Jail Ben Murray Lec
+Texas,Wheeler County - Wheeler County Sheriff,31,10,21,Wheeler County,Wheeler County Sheriff
+Texas,Franklin County - Franklin County Jail,31,15,16,Franklin County,Franklin County Jail
+Texas,San Jacinto County - San Jacinto County Sheriff,31,22,9,San Jacinto County,San Jacinto County Sheriff
+Texas,Denton County - The Colony Police Dept.,31,21,10,Denton County,The Colony Police Dept.
+Texas,Houston County - Houston County Sheriff,31,20,11,Houston County,Houston County Sheriff
+Texas,Duval County - Duval County Jail,31,9,22,Duval County,Duval County Jail
+Texas,Coryell County - Linda Woodmansjf,30,13,17,Coryell County,Linda Woodmansjf
+Texas,"Reeves County - Us Marshals, Pecos Tx",30,20,10,Reeves County,"Us Marshals, Pecos Tx"
+Texas,Brown County - Brown County Sheriff,29,6,23,Brown County,Brown County Sheriff
+Texas,Brazoria County - Clute Police Dept.,29,19,10,Brazoria County,Clute Police Dept.
+Texas,Kimble County - Kimble County Jail,28,5,23,Kimble County,Kimble County Jail
+Texas,Harris County - Bellaire Police Dept.,28,17,11,Harris County,Bellaire Police Dept.
+Texas,Hansford County - Hansford County Sheriff,28,8,20,Hansford County,Hansford County Sheriff
+Texas,Jasper County - Jasper County Sheriff,28,21,7,Jasper County,Jasper County Sheriff
+Texas,Bell County - Temple P.D.,27,23,4,Bell County,Temple P.D.
+Texas,Bell County - Temple P.D.,27,23,4,Bell County,Temple P.D.
+Texas,Wharton County - El Campo Police Dept.,27,10,17,Wharton County,El Campo Police Dept.
+Texas,Montague County - Montague County Jail,27,14,13,Montague County,Montague County Jail
+Texas,Pecos County - Pecos County L.E.C.,26,11,15,Pecos County,Pecos County L.E.C.
+Texas,Cherokee County - Jacksonville Police Dept.,26,20,6,Cherokee County,Jacksonville Police Dept.
+Texas,Garza County - Garza County Jail,26,5,21,Garza County,Garza County Jail
+Texas,Cameron County - Harlingen Staging Facility,25,18,7,Cameron County,Harlingen Staging Facility
+Texas,Sherman County - Sherman County Sheriff,25,14,11,Sherman County,Sherman County Sheriff
+Texas,Ward County - Ward City Jail - Monahans,25,5,20,Ward County,Ward City Jail
+Texas,Gregg County - Longview Police Dept.,25,12,13,Gregg County,Longview Police Dept.
+Texas,Potter County - Amarillo City Jail,24,9,15,Potter County,Amarillo City Jail
+Texas,Hidalgo County - East Hidalgo Detention Center,24,10,14,Hidalgo County,East Hidalgo Detention Center
+Texas,"Lubbock County - Us Marshal, Lubbock, Ndtx",23,,23,Lubbock County,"Us Marshal, Lubbock, Ndtx"
+Texas,Brazoria County - Freeport Police Dept.,23,12,11,Brazoria County,Freeport Police Dept.
+Texas,Bee County - Bee County Sheriff,22,8,14,Bee County,Bee County Sheriff
+Texas,Eastland County - Eastland County Sheriff,21,1,20,Eastland County,Eastland County Sheriff
+Texas,Lavaca County - Lavaca County Jail,21,10,11,Lavaca County,Lavaca County Jail
+Texas,Cass County - Cass County Jail,20,3,17,Cass County,Cass County Jail
+Texas,Tarrant County - Westworth Police Dept.,20,15,5,Tarrant County,Westworth Police Dept.
+Texas,Tarrant County - Lake Worth Police Dept.,20,11,9,Tarrant County,Lake Worth Police Dept.
+Texas,DeWitt County - De Witt County Jail,20,9,11,DeWitt County,De Witt County Jail
+Texas,Harris County - Galena Park Police Dept.,19,14,5,Harris County,Galena Park Police Dept.
+Texas,Brazoria County - Brazoria Police Dept.,19,14,5,Brazoria County,Brazoria Police Dept.
+Texas,Ellis County - Midlothian Police Dept.,18,12,6,Ellis County,Midlothian Police Dept.
+Texas,Harris County - Jacinto City Police Dept.,18,14,4,Harris County,Jacinto City Police Dept.
+Texas,Crane County - Crane County Sheriff's Dept.,18,3,15,Crane County,Crane County Sheriff's Dept.
+Texas,Reagan County - Reagan County L.E. Center,18,2,16,Reagan County,Reagan County L.E. Center
+Texas,Kleberg County - Kleberg County Sheriff,18,3,15,Kleberg County,Kleberg County Sheriff
+Texas,Robertson County - Robertson County Sheriff,18,12,6,Robertson County,Robertson County Sheriff
+Texas,Cameron County - Juvenile Center,18,11,7,Cameron County,Juvenile Center
+Texas,Reeves County - Pecos Hold Room,17,10,7,Reeves County,Pecos Hold Room
+Texas,Morris County - Morris County Jail,17,13,4,Morris County,Morris County Jail
+Texas,Denton County - Flower Mound City Jail,17,4,13,Denton County,Flower Mound City Jail
+Texas,Kinney County - Kinney County Jail,17,3,14,Kinney County,Kinney County Jail
+Texas,Mills County - Mills County Sheriff,17,,17,Mills County,Mills County Sheriff
+Texas,Brazoria County - Lake Jackson Police Dept.,17,14,3,Brazoria County,Lake Jackson Police Dept.
+Texas,Tarrant County - Benbrook City Jail,17,13,4,Tarrant County,Benbrook City Jail
+Texas,Jim Hogg County - Jim Hogg County Sheriff,17,1,16,Jim Hogg County,Jim Hogg County Sheriff
+Texas,Stephens County - Stephens County Sheriff,17,1,16,Stephens County,Stephens County Sheriff
+Texas,Montgomery County - Conroe Police Dept.,17,5,12,Montgomery County,Conroe Police Dept.
+Texas,Live Oak County - Live Oak County Sheriff,16,8,8,Live Oak County,Live Oak County Sheriff
+Texas,Galveston County - Friendswood Police Dept.,16,8,8,Galveston County,Friendswood Police Dept.
+Texas,McCulloch County - Mccullough County Jail,15,2,13,McCulloch County,Mccullough County Jail
+Texas,Dallas County - Cedar Hill Police Dept.,15,12,3,Dallas County,Cedar Hill Police Dept.
+Texas,Oldham County - Oldham County Sheriff,15,6,9,Oldham County,Oldham County Sheriff
+Texas,Dallas County - Glenn Heights Police Dept.,15,12,3,Dallas County,Glenn Heights Police Dept.
+Texas,Bexar County - Bexar County Wackenhut Annual Det.,15,7,8,Bexar County,Bexar County Wackenhut Annual Det.
+Texas,Brazoria County - Angleton Police Dept.,15,8,7,Brazoria County,Angleton Police Dept.
+Texas,Webb County - Laredo Detention Center Hold Room,15,1,14,Webb County,Laredo Detention Center Hold Room
+Texas,Dallas County - Coppell Police Dept.,14,9,5,Dallas County,Coppell Police Dept.
+Texas,Collingsworth County - Collingsworth County Sherif,14,6,8,Collingsworth County,Collingsworth County Sherif
+Texas,Fort Bend County - Richmond Police Dept.,14,8,6,Fort Bend County,Richmond Police Dept.
+Texas,McLennan County - Waco Hold Room,14,4,10,McLennan County,Waco Hold Room
+Texas,Lavaca County - Yoakum Police Dept.,14,3,11,Lavaca County,Yoakum Police Dept.
+Texas,Dawson County - Dawson County Jail,13,2,11,Dawson County,Dawson County Jail
+Texas,Clay County - Clay County Jail,13,10,3,Clay County,Clay County Jail
+Texas,Runnels County - Runnels County Jail,13,2,11,Runnels County,Runnels County Jail
+Texas,Fort Bend County - Missouri City Police Dept.,13,9,4,Fort Bend County,Missouri City Police Dept.
+Texas,Callahan County - Callahan County Sheriff,13,1,12,Callahan County,Callahan County Sheriff
+Texas,Mason County - Mason County Jail,13,3,10,Mason County,Mason County Jail
+Texas,Galveston County - Kemah Police Dept.,13,8,5,Galveston County,Kemah Police Dept.
+Texas,Johnson County - Keene Police Dept.,13,11,2,Johnson County,Keene Police Dept.
+Texas,San Patricio County - San Patricio County Jail,13,9,4,San Patricio County,San Patricio County Jail
+Texas,Upton County - Upton County L.E.C.,13,4,9,Upton County,Upton County L.E.C.
+Texas,Bee County - Tdc-Beeville,13,,13,Bee County,Tdc-Beeville
+Texas,Bee County - Tdc-Beeville,13,,13,Bee County,Tdc-Beeville
+Texas,Tarrant County - Tarrant County Juvenile,12,11,1,Tarrant County,Tarrant County Juvenile
+Texas,Lynn County - Lynn County Sheriff,12,2,10,Lynn County,Lynn County Sheriff
+Texas,"Taylor County - Us Marshal, Abilene, Ndtx",12,,12,Taylor County,"Us Marshal, Abilene, Ndtx"
+Texas,Harris County - Jersey Village Police Dept.,12,7,5,Harris County,Jersey Village Police Dept.
+Texas,Trinity County - Trinity Police Dept.,12,10,2,Trinity County,Trinity Police Dept.
+Texas,Walker County - Huntsville Police Dept.,12,7,5,Walker County,Huntsville Police Dept.
+Texas,Jefferson County - Beaumont Police Dept.,12,8,4,Jefferson County,Beaumont Police Dept.
+Texas,Jack County - Jack County Jail,11,9,2,Jack County,Jack County Jail
+Texas,Lee County - Lexington,11,1,10,Lee County,Lexington
+Texas,Lee County - Lexington,11,1,10,Lee County,Lexington
+Texas,Archer County - Archer County Jail,11,8,3,Archer County,Archer County Jail
+Texas,Rains County - Rains County Jail,11,7,4,Rains County,Rains County Jail
+Texas,Goliad County - Goliad County Sheriff,11,5,6,Goliad County,Goliad County Sheriff
+Texas,Lipscomb County - Lipscomb County Jail,11,2,9,Lipscomb County,Lipscomb County Jail
+Texas,San Augustine County - San Augustine County Sherif,11,9,2,San Augustine County,San Augustine County Sherif
+Texas,Pecos County - Texas Doc - Lynaugh Unit,11,2,9,Pecos County,Texas Doc
+Texas,Cochran County - Cochran County Jail,10,4,6,Cochran County,Cochran County Jail
+Texas,Ellis County - Ferris Police Dept.,10,4,6,Ellis County,Ferris Police Dept.
+Texas,Somervell County - Somervell County Sheriff's Dept,10,4,6,Somervell County,Somervell County Sheriff's Dept
+Texas,Martin County - Martin County Jail,10,6,4,Martin County,Martin County Jail
+Texas,Willacy County - Willacy County Regional Detention,10,4,6,Willacy County,Willacy County Regional Detention
+Texas,Crosby County - Crosby County Sheriff,10,4,6,Crosby County,Crosby County Sheriff
+Texas,Tarrant County - River Oaks Police Dept.,10,6,4,Tarrant County,River Oaks Police Dept.
+Texas,Coleman County - Coleman County Sheriff,10,3,7,Coleman County,Coleman County Sheriff
+Texas,Terrell County - Terrell County Jail,10,6,4,Terrell County,Terrell County Jail
+Texas,Donley County - Donley County Sheriff,9,6,3,Donley County,Donley County Sheriff
+Texas,El Paso County - Alternative House,9,5,4,El Paso County,Alternative House
+Texas,Real County - Real County Jail,9,,9,Real County,Real County Jail
+Texas,Haskell County - Haskell County Sheriff,9,3,6,Haskell County,Haskell County Sheriff
+Texas,Burleson County - Somerville Police Dept.,9,1,8,Burleson County,Somerville Police Dept.
+Texas,Swisher County - Swisher County Sheriff,9,2,7,Swisher County,Swisher County Sheriff
+Texas,Jones County - Jones County Sheriff,9,,9,Jones County,Jones County Sheriff
+Texas,Orange County - Orange Police Dept.,8,6,2,Orange County,Orange Police Dept.
+Texas,Bexar County - Bexar County Juvenile,8,4,4,Bexar County,Bexar County Juvenile
+Texas,El Paso County - El Paso Juvenile Service Processi,8,5,3,El Paso County,El Paso Juvenile Service Processi
+Texas,Nueces County - Corpus Christi Police Dept.,8,6,2,Nueces County,Corpus Christi Police Dept.
+Texas,Fisher County - Fisher County Sheriff,8,,8,Fisher County,Fisher County Sheriff
+Texas,Sutton County - Sutton County Jail,8,1,7,Sutton County,Sutton County Jail
+Texas,Hunt County - Hunt Co.Juvenile Det Ctr,8,8,,Hunt County,Hunt Co.Juvenile Det Ctr
+Texas,Crockett County - Crockett County Sheriff,8,4,4,Crockett County,Crockett County Sheriff
+Texas,Houston County - Crockett Police Dept.,8,2,6,Houston County,Crockett Police Dept.
+Texas,Matagorda County - Palacios Police Dept.,8,5,3,Matagorda County,Palacios Police Dept.
+Texas,Newton County - Newton County Corr. Ctr.,8,6,2,Newton County,Newton County Corr. Ctr.
+Texas,El Paso County - El Paso Fpc,8,,8,El Paso County,El Paso Fpc
+Texas,Dallas County - Bop Dallas Ccm,8,,8,Dallas County,Bop Dallas Ccm
+Texas,Jim Wells County - Jim Wells County Sheriff,8,4,4,Jim Wells County,Jim Wells County Sheriff
+Texas,Cameron County - Los Fresnos Hold Room,8,6,2,Cameron County,Los Fresnos Hold Room
+Texas,"Bowie County - Us Marshal, Texarkana, Edtx",7,2,5,Bowie County,"Us Marshal, Texarkana, Edtx"
+Texas,Tarrant County - Crowley Police Dept.,7,2,5,Tarrant County,Crowley Police Dept.
+Texas,Harris County - Spring Valley Police Dept.,7,4,3,Harris County,Spring Valley Police Dept.
+Texas,Brazoria County - Danbury Police Dept.,7,4,3,Brazoria County,Danbury Police Dept.
+Texas,Guadalupe County - Guadalupe County Juvenile D.F.,7,3,4,Guadalupe County,Guadalupe County Juvenile D.F.
+Texas,Nueces County - Corpus Christi City Marshal's,7,5,2,Nueces County,Corpus Christi City Marshal's
+Texas,Armstrong County - Armstrong County Jail,7,4,3,Armstrong County,Armstrong County Jail
+Texas,San Augustine County - San Augustine Police Dept.,7,2,5,San Augustine County,San Augustine Police Dept.
+Texas,Mitchell County - Mitchell County Sheriff,7,1,6,Mitchell County,Mitchell County Sheriff
+Texas,Refugio County - Refugio County Sheriff,7,4,3,Refugio County,Refugio County Sheriff
+Texas,Val Verde County - Del Rio DRO Hold Room,6,2,4,Val Verde County,Del Rio DRO Hold Room
+Texas,Edwards County - Edwards County Jail,6,,6,Edwards County,Edwards County Jail
+Texas,"Wichita County - Us Marshal, Wichita Falls, Ndtx",6,1,5,Wichita County,"Us Marshal, Wichita Falls, Ndtx"
+Texas,Dallas County - Duncanville Police Dept.,6,4,2,Dallas County,Duncanville Police Dept.
+Texas,Zavala County - Crystal City Correctional Center,6,2,4,Zavala County,Crystal City Correctional Center
+Texas,Liberty County - Cleveland Police Dept.,6,2,4,Liberty County,Cleveland Police Dept.
+Texas,Bexar County - Ccm San Antonio-Comm. Corrections,6,1,5,Bexar County,Ccm San Antonio-Comm. Corrections
+Texas,"Harrison County - Us Marshal, Marshall, Edtx",6,1,5,Harrison County,"Us Marshal, Marshall, Edtx"
+Texas,McLennan County - Jack Harwell Detention Center,6,2,4,McLennan County,Jack Harwell Detention Center
+Texas,Hutchinson County - Borger Police Dept.,6,2,4,Hutchinson County,Borger Police Dept.
+Texas,Tarrant County - Saginaw Police Dept.,6,6,,Tarrant County,Saginaw Police Dept.
+Texas,Tarrant County - Pantego Police Dept.,6,3,3,Tarrant County,Pantego Police Dept.
+Texas,El Paso County - Bop El Paso Ccm,6,,6,El Paso County,Bop El Paso Ccm
+Texas,Dallas County - Desoto Regional Jail,6,3,3,Dallas County,Desoto Regional Jail
+Texas,Dallas County - Highland Park Dps,5,4,1,Dallas County,Highland Park Dps
+Texas,Nueces County - Corpus Christi Facility,5,2,3,Nueces County,Corpus Christi Facility
+Texas,Live Oak County - George West Police Dept.,5,4,1,Live Oak County,George West Police Dept.
+Texas,Culberson County - Culberson County Sheriff's,5,3,2,Culberson County,Culberson County Sheriff's
+Texas,Orange County - Bridge City Police Dept.,5,2,3,Orange County,Bridge City Police Dept.
+Texas,Collin County - Wylie Police Dept.,5,1,4,Collin County,Wylie Police Dept.
+Texas,Liberty County - Liberty Police Dept.,5,5,,Liberty County,Liberty Police Dept.
+Texas,Brazos County - Bryan Police Dept,5,2,3,Brazos County,Bryan Police Dept
+Texas,Waller County - Brookshire Police Dept.,5,3,2,Waller County,Brookshire Police Dept.
+Texas,Reeves County - Reeves Co. Juv. Det. Ctr.,5,1,4,Reeves County,Reeves Co. Juv. Det. Ctr.
+Texas,Galveston County - Santa Fe Police Dept.,5,2,3,Galveston County,Santa Fe Police Dept.
+Texas,Angelina County - Lufkin Police Dept.,5,2,3,Angelina County,Lufkin Police Dept.
+Texas,Hall County - Memphis Police Dept.,5,1,4,Hall County,Memphis Police Dept.
+Texas,Falls County - Tdc-Marlin Texas,5,1,4,Falls County,Tdc-Marlin Texas
+Texas,Williamson County - T. Don Hutto Residential Cente,5,1,4,Williamson County,T. Don Hutto Residential Cente
+Texas,Nacogdoches County - Nacogdoches Police Dept.,5,4,1,Nacogdoches County,Nacogdoches Police Dept.
+Texas,Hardeman County - Hardeman County Jail,5,2,3,Hardeman County,Hardeman County Jail
+Texas,Austin County - Bellville Police Dept.,4,1,3,Austin County,Bellville Police Dept.
+Texas,Delta County - Delta County Jail,4,2,2,Delta County,Delta County Jail
+Texas,Atascosa County - Atascosa County Juvenile,4,2,2,Atascosa County,Atascosa County Juvenile
+Texas,Schleicher County - Schleicher County Jail,4,1,3,Schleicher County,Schleicher County Jail
+Texas,La Salle County - Tdc-Cotulla,4,,4,La Salle County,Tdc-Cotulla
+Texas,Brazoria County - West Columbia Police Dept,4,3,1,Brazoria County,West Columbia Police Dept
+Texas,Colorado County - Columbus Police Dept.,4,2,2,Colorado County,Columbus Police Dept.
+Texas,Hartley County - Hartley County Sheriff,4,,4,Hartley County,Hartley County Sheriff
+Texas,Madison County - Madisonville Police Dept.,4,2,2,Madison County,Madisonville Police Dept.
+Texas,Navarro County - Rice City Police Dept.,4,2,2,Navarro County,Rice City Police Dept.
+Texas,Trinity County - Groveton Police Dept.,4,3,1,Trinity County,Groveton Police Dept.
+Texas,Harris County - Seabrook Police Dept.,4,4,,Harris County,Seabrook Police Dept.
+Texas,Tarrant County - Dalworthington Gardens Pol. Dept.,4,3,1,Tarrant County,Dalworthington Gardens Pol. Dept.
+Texas,Pecos County - Pecos County Juvenile,4,,4,Pecos County,Pecos County Juvenile
+Texas,San Patricio County - Taft Police Dept.,4,2,2,San Patricio County,Taft Police Dept.
+Texas,Howard County - Big Spring Hold Room,4,4,,Howard County,Big Spring Hold Room
+Texas,McMullen County - Mcmullen County Jail,4,1,3,McMullen County,Mcmullen County Jail
+Texas,Milam County - Cameron Police Dept.,4,2,2,Milam County,Cameron Police Dept.
+Texas,Harris County - Memorial Village Police Dept.,4,2,2,Harris County,Memorial Village Police Dept.
+Texas,Glasscock County - Glasscock County Sheriff,3,1,2,Glasscock County,Glasscock County Sheriff
+Texas,"Brewster County - Us Marshals, Alpine Tx",3,,3,Brewster County,"Us Marshals, Alpine Tx"
+Texas,Moore County - Dumas Police Dept.,3,2,1,Moore County,Dumas Police Dept.
+Texas,Wise County - Decatur Police Dept.,3,,3,Wise County,Decatur Police Dept.
+Texas,Johnson County - Burleson Police Dept.,3,2,1,Johnson County,Burleson Police Dept.
+Texas,Victoria County - Crossroads Yth & Fam Services,3,1,2,Victoria County,Crossroads Yth & Fam Services
+Texas,Brazos County - Bryan Fed.Pris.Camp,3,1,2,Brazos County,Bryan Fed.Pris.Camp
+Texas,Harris County - Bop Houston Ccm,3,,3,Harris County,Bop Houston Ccm
+Texas,Fort Bend County - Rosenberg Police Dept.,3,2,1,Fort Bend County,Rosenberg Police Dept.
+Texas,Menard County - Menard County Sheriff,3,2,1,Menard County,Menard County Sheriff
+Texas,Karnes County - Karnes County Civil Detention Faci,3,3,,Karnes County,Karnes County Civil Detention Faci
+Texas,Lee County - Giddings Police Dept.,3,2,1,Lee County,Giddings Police Dept.
+Texas,Victoria County - Victoria Police Dept.,3,3,,Victoria County,Victoria Police Dept.
+Texas,Harris County - Southside Place Police Dept.,3,2,1,Harris County,Southside Place Police Dept.
+Texas,Galveston County - Galveston County Juvenile,3,,3,Galveston County,Galveston County Juvenile
+Texas,Webb County - Rio Grande Detention Center,3,,3,Webb County,Rio Grande Detention Center
+Texas,Jackson County - Edna Police Dept.,2,1,1,Jackson County,Edna Police Dept.
+Texas,Harris County - Nassau Bay Police Dept.,2,,2,Harris County,Nassau Bay Police Dept.
+Texas,"El Paso County - La Tuna Federal Sattelite, Low",2,1,1,El Paso County,"La Tuna Federal Sattelite, Low"
+Texas,Grimes County - Navasota Police Dept.,2,,2,Grimes County,Navasota Police Dept.
+Texas,Harris County - Catholic Charities (Houston),2,,2,Harris County,Catholic Charities (Houston)
+Texas,La Salle County - LaSalle County Regional Detentio,2,,2,La Salle County,LaSalle County Regional Detentio
+Texas,Burnet County - Lalbert Subs Abuse Facili,2,2,,Burnet County,Lalbert Subs Abuse Facili
+Texas,Cameron County - Valley Baptist Hospital,2,1,1,Cameron County,Valley Baptist Hospital
+Texas,Taylor County - Abilene Hold Room,2,,2,Taylor County,Abilene Hold Room
+Texas,Val Verde County - Val Verde County Juvenile,2,2,,Val Verde County,Val Verde County Juvenile
+Texas,Medina County - Joe Ney Sa (Hf/85),2,1,1,Medina County,Joe Ney Sa (Hf/85)
+Texas,Aransas County - Rockport Police Dept.,2,1,1,Aransas County,Rockport Police Dept.
+Texas,Bexar County - Baptist Child & Family Services,2,,2,Bexar County,Baptist Child & Family Services
+Texas,Harris County - Metro (Mta) Police Dept.,2,,2,Harris County,Metro (Mta) Police Dept.
+Texas,Montgomery County - Montgomery County Constable Pc,2,,2,Montgomery County,Montgomery County Constable Pc
+Texas,Calhoun County - Calhoun County Constable Pct 2,2,1,1,Calhoun County,Calhoun County Constable Pct 2
+Texas,Washington County - Brenham Police Dept.,2,,2,Washington County,Brenham Police Dept.
+Texas,Concho County - Concho County Sheriff,2,,2,Concho County,Concho County Sheriff
+Texas,Hunt County - Commerce Police Dept.,2,2,,Hunt County,Commerce Police Dept.
+Texas,Hardin County - Lumberton Police Dept.,2,1,1,Hardin County,Lumberton Police Dept.
+Texas,Cameron County - Southwest Key - No. 946,2,,2,Cameron County,Southwest Key
+Texas,Cameron County - Rio Grande St.Hospital,2,,2,Cameron County,Rio Grande St.Hospital
+Texas,Ector County - Ector County Youth Center,2,,2,Ector County,Ector County Youth Center
+Texas,Floyd County - Floyd County Sheriff,2,2,,Floyd County,Floyd County Sheriff
+Texas,Ward County - West Texas Youth Commission,2,1,1,Ward County,West Texas Youth Commission
+Texas,Bowie County - Texarkana Bi State Justice Center,2,,2,Bowie County,Texarkana Bi State Justice Center
+Texas,Marion County - Marion County Jail,2,2,,Marion County,Marion County Jail
+Texas,Harris County - West University Place Police Dept.,2,1,1,Harris County,West University Place Police Dept.
+Texas,Kerr County - Kerr County Jdc,2,,2,Kerr County,Kerr County Jdc
+Texas,El Paso County - Southwest Key Progam (Juvenile),2,2,,El Paso County,Southwest Key Progam (Juvenile)
+Texas,Bexar County - Laurel Ridge Treatment Ctr,2,,2,Bexar County,Laurel Ridge Treatment Ctr
+Texas,Galveston County - La Marque Police Dept.,2,2,,Galveston County,La Marque Police Dept.
+Texas,Brazos County - College Station Police Dept.,2,1,1,Brazos County,College Station Police Dept.
+Texas,Carson County - Panhandle Police Dept.,1,1,,Carson County,Panhandle Police Dept.
+Texas,Jackson County - Ganado Police Dept.,1,,1,Jackson County,Ganado Police Dept.
+Texas,Galveston County - Hitchcock Police Dept.,1,1,,Galveston County,Hitchcock Police Dept.
+Texas,Jefferson County - Groves Police Dept.,1,,1,Jefferson County,Groves Police Dept.
+Texas,Galveston County - Bayou Vista Police Dept.,1,,1,Galveston County,Bayou Vista Police Dept.
+Texas,Frio County - South Teas/Pearsall Hold Room,1,,1,Frio County,South Teas/Pearsall Hold Room
+Texas,Cameron County - South Texas Hospital,1,1,,Cameron County,South Texas Hospital
+Texas,Waller County - Hempstead Police Dept.,1,,1,Waller County,Hempstead Police Dept.
+Texas,Hansford County - Spearman Police Dept.,1,,1,Hansford County,Spearman Police Dept.
+Texas,El Paso County - Lutheran Social Services Facility,1,,1,El Paso County,Lutheran Social Services Facility
+Texas,Baylor County - Baylor County Jail,1,,1,Baylor County,Baylor County Jail
+Texas,Tarrant County - Catholic Charities - Fort Worth S,1,,1,Tarrant County,Catholic Charities
+Texas,Galveston County - Children's Center Inc.,1,,1,Galveston County,Children's Center Inc.
+Texas,Ochiltree County - Perryton Police Dept.,1,,1,Ochiltree County,Perryton Police Dept.
+Texas,Hidalgo County - Progreso Police Dept.,1,,1,Hidalgo County,Progreso Police Dept.
+Texas,Bell County - Bell County Juvenile,1,,1,Bell County,Bell County Juvenile
+Texas,Hays County - Hays County Juvenile Center,1,1,,Hays County,Hays County Juvenile Center
+Texas,Milam County - Rockdale Regional Juvenile Center,1,,1,Milam County,Rockdale Regional Juvenile Center
+Texas,Harris County - Southwest Key - Houston,1,,1,Harris County,Southwest Key
+Texas,Burleson County - Caldwell Police Dept.,1,1,,Burleson County,Caldwell Police Dept.
+Texas,Shackelford County - Shackelford County Sheriff,1,,1,Shackelford County,Shackelford County Sheriff
+Texas,Roberts County - Roberts County Sheriff,1,1,,Roberts County,Roberts County Sheriff
+Texas,Liberty County - Liberty Cty Juv Det Cente,1,1,,Liberty County,Liberty Cty Juv Det Cente
+Texas,Scurry County - Borden County Jail,1,1,,Scurry County,Borden County Jail
+Texas,Calhoun County - Port Lavaca Police Dept.,1,1,,Calhoun County,Port Lavaca Police Dept.
+Texas,Fort Bend County - Stafford Police Dept.,1,,1,Fort Bend County,Stafford Police Dept.
+Texas,Robertson County - Hearne Police Dept.,1,1,,Robertson County,Hearne Police Dept.
+Texas,Tyler County - Woodville Police Dept.,1,1,,Tyler County,Woodville Police Dept.
+Texas,Cameron County - International Educational Service,1,,1,Cameron County,International Educational Service
+Texas,Polk County - Corrigan Police Dept.,1,1,,Polk County,Corrigan Police Dept.
+Texas,Polk County - Livingston Police Dept.,1,,1,Polk County,Livingston Police Dept.
+Texas,Liberty County - Dayton Police Dept.,1,,1,Liberty County,Dayton Police Dept.
+Texas,Stonewall County - Stonewall County Sheriff,1,1,,Stonewall County,Stonewall County Sheriff
+Texas,Throckmorton County - Throckmorton County Sheriff,1,,1,Throckmorton County,Throckmorton County Sheriff
+Texas,Parmer County - Friona Police Dept.,1,,1,Parmer County,Friona Police Dept.
+Texas,Motley County - Motley County Sheriff,1,,1,Motley County,Motley County Sheriff
+Texas,Matagorda County - Bay City Police Dept.,1,1,,Matagorda County,Bay City Police Dept.
+Texas,Waller County - Waller Police Dept.,1,1,,Waller County,Waller Police Dept.
+Texas,Dawson County - Texas Doc - Smith Unit,1,,1,Dawson County,Texas Doc
+Texas,Lavaca County - Moulton Police Dept.,1,,1,Lavaca County,Moulton Police Dept.
+Texas,San Patricio County - Aransas Pass Police Dept.,1,1,,San Patricio County,Aransas Pass Police Dept.
+Texas,Jasper County - Jasper Police Dept.,1,1,,Jasper County,Jasper Police Dept.
+Texas,Webb County - Scan Inc.,1,1,,Webb County,Scan Inc.
+Texas,Webb County - Scan Inc.,1,1,,Webb County,Scan Inc.
+Texas,"Waller County - Waller County Constable, Pct. 3",1,,1,Waller County,"Waller County Constable, Pct. 3"
