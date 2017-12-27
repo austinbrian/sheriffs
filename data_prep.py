@@ -79,13 +79,26 @@ def combine_dfs(pres,imm_ua):
     # df2 =pd.merge(left=pres,right=imm_ua,left_on=['fips_countyname_county','state'],right_on=['county_name','State_init'])
     if len(df1)>1:
         print("Dfs combined succesfully")
+    if len(df1)>df1.iloc[:,0]:
+        df1 = df1.drop_duplicates(str(df1.columns[0])) # drops on FIPS code
     return df1
+
+def merge
+    merged_counties = [i for i in df.fips_countyname_county]
+    print("{} merged".format(len(merged_counties)))
+    immigration_counties = [i for i in imm.county_name]
+    to_be_merged = [i for i in immigration_counties if i not in merged_counties]
+    print("{} to be merged".format(len(to_be_merged)))
+
+def add_ice_data(df,icepath):
+    
 
 def main():
     ct,pres = load_political_data('../sheriffs/data/ct.csv','../sheriffs/data/president_counties.csv')
     imm_ua = load_imm_data('../sheriffs/data/State-county-unauthorized-estimates.csv','../sheriffs/data/State-unauthorized-estimates.csv')
     df = combine_dfs(pres,imm_ua)
-    print(df.head())
+    # print(df.head())
+    return df
 
 
 if __name__=="__main__":
