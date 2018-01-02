@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Make sherriffs script a runnable file that will output a pandas df
+Make sheriffs script a runnable file that will output a pandas df
 Can be used to develop visualizations
 
 @author: austinbrian
@@ -32,9 +32,10 @@ def load_ilrc_data(path):
     '''
     Data provided by ILRC of their blog: https://www.ilrc.org/local-enforcement-map
     '''
+    path = '../sheriffs/data/County_Imm_Map_ILRC.csv'
     ilrc = pd.read_csv(path,dtype={"GEOID - FIPS":object})
     # ilrc = pd.read_csv('../sheriffs/data/County_Imm_Map_ILRC.csv',dtype={"GEOID - FIPS":object})
-    return ilrc
+    return ilrc.head()
 
 def load_imm_data(path1,path2):
     '''
@@ -73,17 +74,18 @@ def combine_dfs(pres,imm_ua):
     Takes in political and immigration dfs, reshapes them
     '''
     # First step adds the state initial here
-    df1=pd.merge(left=pres, right=imm_ua[['State','State_init']], left_on='state',right_on='State_init')
+    # df1=pd.merge(left=pres, right=imm_ua[['State','State_init']], left_on='state',right_on='State_init')
 
     # What, what is this?
-    # df2 =pd.merge(left=pres,right=imm_ua,left_on=['fips_countyname_county','state'],right_on=['county_name','State_init'])
-    if len(df1)>1:
-        print("Dfs combined succesfully")
-    if len(df1)>df1.iloc[:,0]:
+    df1 =pd.merge(left=pres,right=imm_ua,left_on=['fips_countyname_county','state'],right_on=['county_name','State_init'])
+    if len(df1)>df1.iloc[:,0].nunique():
         df1 = df1.drop_duplicates(str(df1.columns[0])) # drops on FIPS code
+    if len(df1)>1:
+       print("Dfs combined succesfully")
     return df1
 
-def merge
+def merge_check(df, imm):
+    # df =
     merged_counties = [i for i in df.fips_countyname_county]
     print("{} merged".format(len(merged_counties)))
     immigration_counties = [i for i in imm.county_name]
@@ -91,15 +93,34 @@ def merge
     print("{} to be merged".format(len(to_be_merged)))
 
 def add_ice_data(df,icepath):
-    
+    ice = pd.read_csv(icepath)
+    ice['pct_ice']=ice.Yes/ice.All
+    ice.rename(columns={'All':'total_detained','Yes':'ICE_custody','No':'No_ICE_custody'},inplace=True)
+    imm = pd.merge(left=df,right=ice,how='left',left_on=['county_name','State'],
+                 right_on=['County','State'])
+    imm['taxpayer_turnout'] = imm.total_votes/imm.num_returns
+    imm['pct_clinton'] = imm.clinton/imm.total_votes
+    imm['pct_ua_pop_detained'] = imm.total_detained/imm.County_UA_pop
+    imm['log_total_detained'] = np.log(imm.total_detained)
+    imm.drop(['State_init','County_y'],axis=1,inplace=True)
+    imm.rename(columns={'County_x':'county_state_long','State':'State_long'},inplace=True)
+
+    # add some detention measures
+    imm['dem_votes_per_custody']=imm.clinton/imm.ICE_custody
+
+    return imm
 
 def main():
     ct,pres = load_political_data('../sheriffs/data/ct.csv','../sheriffs/data/president_counties.csv')
     imm_ua = load_imm_data('../sheriffs/data/State-county-unauthorized-estimates.csv','../sheriffs/data/State-unauthorized-estimates.csv')
-    df = combine_dfs(pres,imm_ua)
-    # print(df.head())
+    imm = combine_dfs(pres,imm_ua)
+    df = add_ice_data(imm,'../sheriffs/data/county_rollup_ice_detainees.csv')
     return df
 
 
 if __name__=="__main__":
-    main()
+    df = main()
+    print(df.head())
+    print(df.shape)
+    print(df.columns)
+    print(df.iloc[143,:])

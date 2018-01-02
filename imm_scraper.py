@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from time import sleep
 from random import randint
+import datetime
 
 '''
 class ImmScraper():
@@ -113,6 +114,14 @@ for state in range(2,58): # starts at 2 because element #1 is "all"
     state_df.to_csv('./state_files/{}_ice_detainees.csv'.format(state_name),index=False) # why not save each state?
     full_nation_df = full_nation_df.append(state_df,ignore_index=True)
 
-full_nation_df.to_csv('ice_detainees.csv',index=False)
+#format datetime
+def get_year_date():
+    month = time.strftime("%b")
+    day = time.strftime("%d")
+    year = time.strftime("%Y")
+    datestring = ("{}-{}-{}".format(day,month,year))
+    return datestring
+datestring = get_year_date()
+full_nation_df.to_csv('./data/ice_detainees_{}.csv'.format(datestring),index=False)
 
 driver.quit()
