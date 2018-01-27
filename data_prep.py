@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+
 # -*- coding: utf-8 -*-
 """
 Make sheriffs script a runnable file that will output a pandas df
@@ -7,16 +8,15 @@ Can be used to develop visualizations
 @author: austinbrian
 """
 
-### Imports
+# Imports
 import pandas as pd
 import numpy as np
 
-### Load in and shape previously scraped data
-
-def load_political_data(path1,path2):
-    ct = pd.read_csv(path1,dtype={'FIPS':object})
+# Load in and shape previously scraped data
+def load_political_data(path1, path2):
+    ct = pd.read_csv(path1, dtype={'FIPS':object})
     # ct = pd.read_csv('../sheriffs/data/ct.csv',dtype={'FIPS':object})
-    pres=pd.read_csv(path2)
+    pres = pd.read_csv(path2)
     # pres = pd.read_csv('../sheriffs/data/president_counties.csv')
     pres['turnout'] =  pres.total_votes/pres.people
     cols = [i for i in pres.columns]
@@ -85,7 +85,6 @@ def combine_dfs(pres,imm_ua):
     return df1
 
 def merge_check(df, imm):
-    # df =
     merged_counties = [i for i in df.fips_countyname_county]
     print("{} merged".format(len(merged_counties)))
     immigration_counties = [i for i in imm.county_name]
@@ -110,6 +109,7 @@ def add_ice_data(df,icepath):
 
     return imm
 
+
 def main():
     ct,pres = load_political_data('../sheriffs/data/ct.csv','../sheriffs/data/president_counties.csv')
     imm_ua = load_imm_data('../sheriffs/data/State-county-unauthorized-estimates.csv','../sheriffs/data/State-unauthorized-estimates.csv')
@@ -118,9 +118,9 @@ def main():
     return df
 
 
-if __name__=="__main__":
+if __name__ == "__main__":
     df = main()
     print(df.head())
     print(df.shape)
     print(df.columns)
-    print(df.iloc[143,:])
+    print(df.iloc[143, :])
