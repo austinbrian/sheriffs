@@ -19,6 +19,9 @@ import plotly.graph_objs as go
 df = data_prep.main()
 
 app = dash.Dash()
+server = app.server
+
+app.css.append_css({"external_url": "https://codepen.io/chriddyp/pen/bWLwgP.css"})
 
 markdown_text = ['''
 ## What is a detainer request
