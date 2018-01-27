@@ -43,7 +43,7 @@ over data on the way its agents are handling requests.
 ''',
 '''
 ## What can I do to help?
-ORGANIZATION NAME works in support of activists in local communities to targeting
+Trusing Communities works in support of activists in local communities to targeting
 sheriffs that are threatening local populations.
 
 These sheriffs are harrassing
